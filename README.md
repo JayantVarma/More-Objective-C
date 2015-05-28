@@ -1,4 +1,4 @@
-# More-iPhone-Development-with-Objective-C
+# More-Objective-C
 More iPhone Development with Objective-C - Source code for the book
 
 Authors: Dave Mark, [Jayant Varma](http://www.oz-apps.com), Jeff LaMarche, Alex Horovitz, Kevin Kim
@@ -6,7 +6,7 @@ Authors: Dave Mark, [Jayant Varma](http://www.oz-apps.com), Jeff LaMarche, Alex 
 Medium Available : Print and eBook
  
 
-![Book Cover](https://raw.githubusercontent.com/JayantVarma/more-iPhone-Development-with-Objective-C/master/resources/Obj-CBook.jpg)
+![Book Cover](https://raw.githubusercontent.com/JayantVarma/More-Objective-C/master/resources/Obj-CBook.jpg)
 
 Book details at the Apress site [http://www.apress.com/9781430260370](http://www.apress.com/9781430260370)
 
